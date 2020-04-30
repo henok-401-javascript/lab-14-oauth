@@ -1,0 +1,35 @@
+{
+  "name": "lab-14-oauth",
+  "version": "1.0.0",
+  "description": "## Project Name : OAuth",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs",
+    "lib": "lib"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "lint": "eslint **/*.js",
+    "test-watch": "jest --watchAll --verbose --coverage",
+    "test": "jest --verbose --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/henok-401-javascript/lab-14-oauth.git"
+  },
+  "author": "henok gebremedhn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/henok-401-javascript/lab-14-oauth/issues"
+  },
+  "homepage": "https://github.com/henok-401-javascript/lab-14-oauth#readme",
+  "dependencies": {
+    "bcrypt": "^4.0.1",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.9.11",
+    "morgan": "^1.10.0"
+  }
+}
