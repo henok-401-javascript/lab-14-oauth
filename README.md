@@ -6,7 +6,7 @@
 
 ### Links and Resources
 
-- [submission PR]()
+- [submission PR](https://github.com/henok-401-javascript/lab-14-oauth/pull/1)
 - [heroku]()
 
 ### DOCUMENTATION
