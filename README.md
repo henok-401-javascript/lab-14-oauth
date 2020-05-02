@@ -6,7 +6,7 @@
 
 ### Links and Resources
 
-- [submission PR](https://github.com/henok-401-javascript/lab-14-oauth/pull/2)
+- [submission PR](https://github.com/henok-401-javascript/lab-14-oauth/pull/3)
 - [heroku]()
 
 ### DOCUMENTATION
@@ -24,7 +24,7 @@
 
 - nodemon to restart the server.
 - Once it's restart enter localhost on the browser .
--
+- all roles have there on capabilities, by knowing the right route . you can access the right role and capabilities .
 
 #### Tests
 
