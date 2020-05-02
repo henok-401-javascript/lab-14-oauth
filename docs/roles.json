@@ -1,0 +1,14 @@
+[
+  {
+    "roles": "admit",
+    "capabilities": ["superuser"]
+  },
+  {
+    "roles": "editor",
+    "capabilities": ["create", "update"]
+  },
+  {
+    "roles": "user",
+    "capabilities": ["read"]
+  }
+]
